@@ -1,3 +1,5 @@
+require "pry"
+
 class Song
 
 @@count = 0
@@ -14,5 +16,5 @@ class Song
   def genres
 
   end
-    
+
 end
