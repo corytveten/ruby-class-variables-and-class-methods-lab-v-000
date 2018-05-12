@@ -2,6 +2,7 @@ require "pry"
 
 class Song
 
+@@genres = []
 @@artists = []
 @@count = 0
 
